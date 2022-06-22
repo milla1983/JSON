@@ -3,7 +3,7 @@
  "Severity" : "Minor",
  "Steps to reproduse":{
        "1":" Open front end https:/www.test-obelink/be:8443",
-       "2":"Follow "'Account aanmaken' ",
+       "2":"Follow 'Account aanmaken' link",
        "3" :" Pay attention to tooltip for 'Date of bith' input"},
  "Actual result" :" Poor tooltip for 'Date of bith' field in the registration form ",
  "Expected result":"Tooltip for'Date of bith' field in the registration form is helpful and also in correct language"}
